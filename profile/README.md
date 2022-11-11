@@ -17,6 +17,6 @@ It's a philosophy we call: **True to Life**
 
 ### Contributing
 
-Access to the Olymus Organization on GitHub is restricted to Olympus employees worldwide and official Olympus suppliers.
+Access to the Olymus organization on GitHub is restricted to Olympus employees worldwide and official Olympus suppliers.
 
 If you would like to join the organization, please contact the European webmaster team.
