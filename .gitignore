@@ -1,0 +1,21 @@
+# GENERAL 
+# files types
+*.*~
+.~lock.*
+.*#
+*.*~
+*.bak
+*.doc
+*.docx
+*.env
+*.gho
+*.log
+*.ods
+*.ori
+*.png
+*.swp
+*.swo
+*.tmp
+*.vim
+*.xls
+*.xlsx
