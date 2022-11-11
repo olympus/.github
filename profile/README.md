@@ -1,4 +1,4 @@
-# Olympus 
+# Olympus organization on GitHub
 
 ![GitHub's Octocat standing in the lobby of Olympus Europa SE & Co. KG in Hamburg, Germany.](https://media.githubusercontent.com/media/olympus/.github/main/assets/github-header.jpg)
 
@@ -17,4 +17,6 @@ It's a philosophy we call: **True to Life**
 
 ### Contributing
 
-Access to the Olymus Organization on GitHub is restricted to Olympus employees worldwide and official Olympus suppliers. If you would like to join the organization, please contact the European webmaster team.
+Access to the Olymus Organization on GitHub is restricted to Olympus employees worldwide and official Olympus suppliers.
+
+If you would like to join the organization, please contact the European webmaster team.
