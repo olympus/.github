@@ -17,6 +17,8 @@ It's a philosophy we call: **True to Life**
 
 ### Contributing
 
+**Users which are not active for more than 90 days are removed from the organization without prior warning!**
+
 Access to the Olymus Organization on GitHub is restricted to Olympus employees worldwide and official Olympus suppliers.
 
 If you would like to join the organization, please contact the European webmaster team.
