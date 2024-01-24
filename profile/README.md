@@ -18,7 +18,7 @@ It's a philosophy we call: **True to Life**
 
 ### Contributing
 
-**Beware:** Access to the Olymus Organization on GitHub is restricted to Olympus employees and official Olympus suppliers. The organization is open for active developers, not spectators. Users which are not active for more than 90 days are removed from the organization without prior warning!
+**Beware:** Access to the Olymus Organization on GitHub is restricted to Olympus employees and official Olympus suppliers. The organization is open for active developers, not spectators. Users who are inactive for more than 90 days are removed from the organization without prior warning!
 
 
 #### Join the organization
