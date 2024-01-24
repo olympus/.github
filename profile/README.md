@@ -25,16 +25,11 @@ It's a philosophy we call: **True to Life**
 
 To join the organization, follow these steps:
 
-1. **You need an existing GitHub account!**  
+1. **Get a GitHub account**  
   [Sign up with GitHub](https://github.com/signup) if you do not have an account already. Feel free to use your existing, personal account if you already have one.
 1. **Contact the administrator team**  
-  Submit your request to join in [Quest / ServiceNow](https://olympusprod.service-now.com/sp?id=sc_cat_item_sp&sys_id=2e67479ddb8fd510418bb6b1f3961909&sysparm_category=eca3f272db5b0150418bb6b1f39619b4). The admins will verify the request and invite you.
+  Submit your request to join in [Quest / ServiceNow](https://olympusprod.service-now.com/sp?id=sc_cat_item_sp&sys_id=2e67479ddb8fd510418bb6b1f3961909&sysparm_category=eca3f272db5b0150418bb6b1f39619b4). The administrators will verify your request and invite you.
 1. **Accept the invitation**  
   You must actively accept the invitation that you receive at the email address with which you registered your GitHub account. You can also visit [https://github.com/olympus](https://github.com/olympus) to accept the invitation.
-
-
-#### Respect the rules
-
-Please follow the [conventions](https://github.com/olympus/oly_git-conventions) we have for working within the Olympus organization on GitHub ([@olympus](https://github.com/olympus)). Sticking to the conventions allows efficient and effective organization and administration of users, repositories and projects in the long term.
-
-**Adhering to the conventions is mandatory for all users.**
+1. **Respect the rules**  
+  Get familiar with the [conventions](https://github.com/olympus/oly_git-conventions) we have for working within the Olympus organization on GitHub. They allow for efficient and effective administration of the organization and help you get started.
