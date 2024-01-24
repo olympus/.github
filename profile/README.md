@@ -18,12 +18,10 @@ It's a philosophy we call: **True to Life**
 
 ### Contributing
 
-**Beware:** Access to the Olymus Organization on GitHub is restricted to all Olympus employees and official Olympus suppliers. The organization is open for active developers, not spectators. Users which are not active for more than 90 days are removed from the organization without prior warning!
+**Beware:** Access to the Olymus Organization on GitHub is restricted to Olympus employees and official Olympus suppliers. The organization is open for active developers, not spectators. Users which are not active for more than 90 days are removed from the organization without prior warning!
 
 
 #### Join the organization
-
-To join the organization, follow these steps:
 
 1. **Get a GitHub account**  
   [Sign up with GitHub](https://github.com/signup) if you do not have an account already. Feel free to use your existing, personal account if you already have one.
